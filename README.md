@@ -7,3 +7,11 @@ In this document we're putting together a getting started guide that will help y
   - List of adopted JSRs
   - How to contribute
   - Code source of the Pet Store application 
+
+## List of adopted JSRs
+ - JSR-365 : CDI 2.0
+ - JSR-367 : JSON-P
+ - JSR-369 : Servlet 4.0
+ - JSR-370 : JAX-RS 2.1
+ - JSR-371 : MVC 1.0
+ - JSR-372 : JSF 2.3
