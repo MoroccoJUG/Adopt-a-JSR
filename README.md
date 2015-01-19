@@ -15,3 +15,5 @@ In this document we're putting together a getting started guide that will help y
  - JSR-370 : JAX-RS 2.1
  - JSR-371 : MVC 1.0
  - JSR-372 : JSF 2.3
+
+ ## How to contribute
