@@ -16,4 +16,4 @@ In this document we're putting together a getting started guide that will help y
  - JSR-371 : MVC 1.0
  - JSR-372 : JSF 2.3
 
- ## How to contribute
+## How to contribute
