@@ -6,7 +6,6 @@ In this document we're putting together a getting started guide that will help y
 
   - List of adopted JSRs
   - How to contribute
-  - Code source of the Pet Store application 
 
 ## List of adopted JSRs
  - JSR-365 : CDI 2.0
@@ -32,7 +31,11 @@ A detailed guide is also available at the Adopt a JSR Program's site ([https://j
 
 At the time of writing this article there is no nightly builds available for Glassfish 5 (wich will be Java EE 8 compliant), thus contributions to the program will focus on reviewing the specs, giving feedback and if possible testing early builds of implementations.
  
-Let's take for exemple CDI 2.0, although the alpha version if available the specs are not yet final. Taking this into consideration MoroccoJUG will concentrate on discussing, reviewing and giving feedback on the changes to the upcoming CDI 2.0 (JSR-365) through tow main channels: The existing mailing list (https://lists.jboss.org/mailman/listinfo/cdi-dev) and IRC channel (#cdi-spec on freenode).
+Let's take for exemple CDI 2.0, although the alpha version if available the specs are not yet final. Taking this into consideration MoroccoJUG will concentrate on discussing, reviewing and giving feedback on the changes to the upcoming CDI 2.0 (JSR-365) through tow main channels: The existing mailing list (https://lists.jboss.org/mailman/listinfo/cdi-dev) and IRC channel (#cdi-spec on freenode), you'll find the some interesting ongoing discussions like:
+ - CDI support for Singleton Pseudo   Scope
+ - CDI and its relationship with Session beans
+ - Enhancing SPI to support async operation for contexts
+ To cite but a few.
 
 
 [https://glassfish.java.net/adoptajsr/]:https://glassfish.java.net/adoptajsr/
