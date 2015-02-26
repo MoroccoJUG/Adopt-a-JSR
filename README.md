@@ -19,14 +19,14 @@ In this document we're putting together a getting started guide that will help y
 ## How to contribute
 The glassfish page for adopt a JSR explain it will on how to get involved:
 
- -Share ideas and feedback, possibly by entering issues in public issue trackers (almost every JSR has one).
- -When using email, use "Adopt-a-JSR" in the subject line for greater visibility.
- -For JIRA, use the "adoptajsr" tag for greater visibility (all Oracle led specifications use JIRA).
- -Follow expert group discussions and chime in if needed.
- -Read early versions of specifications and Javadocs.
- -Try writing applications using early builds of the reference implementation (likely GlassFish in case of Java EE).
- -Write or speak about the technology.
- -Encourage others to participate.
+ - Share ideas and feedback, possibly by entering issues in public issue trackers (almost every JSR has one).
+ - When using email, use "Adopt-a-JSR" in the subject line for greater visibility.
+ - For JIRA, use the "adoptajsr" tag for greater visibility (all Oracle led specifications use JIRA).
+ - Follow expert group discussions and chime in if needed.
+ - Read early versions of specifications and Javadocs.
+ - Try writing applications using early builds of the reference implementation (likely GlassFish in case of Java EE).
+ - Write or speak about the technology.
+ - Encourage others to participate.
 
 At the time of writing this article there is no nightly builds available for Glassfish 5 (wich will be Java EE 8 compliant), thus contributions to the program will focus on reviewing the specs, giving feedback and if possible testing early builds of implementations.
  
