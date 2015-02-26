@@ -17,7 +17,7 @@ In this document we're putting together a getting started guide that will help y
  - JSR-372 : JSF 2.3 
 
 ## How to contribute
-The glassfish page for adopt a JSR explain it will on how to get involved:
+The glassfish page ([adoptJSRURL]here ) for adopt a JSR explain it will on how to get involved:
 
  - Share ideas and feedback, possibly by entering issues in public issue trackers (almost every JSR has one).
  - When using email, use "Adopt-a-JSR" in the subject line for greater visibility.
@@ -31,3 +31,6 @@ The glassfish page for adopt a JSR explain it will on how to get involved:
 At the time of writing this article there is no nightly builds available for Glassfish 5 (wich will be Java EE 8 compliant), thus contributions to the program will focus on reviewing the specs, giving feedback and if possible testing early builds of implementations.
  
 Let's take for exemple CDI 2.0, although the alpha version if available the specs are not yet final. Taking this into consideration MoroccoJUG will concentrate on discussing, reviewing and giving feedback on the changes to the upcoming CDI 2.0 (JSR-365) through tow main channels: The existing mailing list (https://lists.jboss.org/mailman/listinfo/cdi-dev) and IRC channel (#cdi-spec on freenode).
+
+
+[adoptJSRURL]:https://glassfish.java.net/adoptajsr/
