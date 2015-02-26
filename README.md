@@ -29,5 +29,5 @@ The glassfish page for adopt a JSR explain it will on how to get involved:
  -Encourage others to participate.
 
 At the time of writing this article there is no nightly builds available for Glassfish 5 (wich will be Java EE 8 compliant), thus contributions to the program will focus on reviewing the specs, giving feedback and if possible testing early builds of implementations.
-
+ 
 Let's take for exemple CDI 2.0, although the alpha version if available the specs are not yet final. Taking this into consideration MoroccoJUG will concentrate on discussing, reviewing and giving feedback on the changes to the upcoming CDI 2.0 (JSR-365) through tow main channels: The existing mailing list (https://lists.jboss.org/mailman/listinfo/cdi-dev) and IRC channel (#cdi-spec on freenode).
