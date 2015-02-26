@@ -17,3 +17,5 @@ In this document we're putting together a getting started guide that will help y
  - JSR-372 : JSF 2.3 
 
 ## How to contribute
+At the time of writing this article there is no nightly builds available for Glassfish 5 (wich will be Java EE 8 compliant), thus contributions to the program will focus on reviewing the specs and testing each implementation apart.
+Let's take for exemple CDI 2.0, however the spec
