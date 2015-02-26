@@ -40,6 +40,9 @@ Let's take for exemple CDI 2.0, although the alpha version if available the spec
 Back to the main reason we're writing this artice: what can you do right know ? 
 
 TL;DR;
-
+ 1. Join the mailing lists of the JSRs you're willing to work on
+ 2. Join the on going discussions and give you feedback when ever you have it 
+ 3. Play with the early build of the implementations
+ 4. Watch this github repository, more content will be availble.
 
 [https://glassfish.java.net/adoptajsr/]:https://glassfish.java.net/adoptajsr/
