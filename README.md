@@ -4,8 +4,8 @@ MoroccoJUG's team was a member of the adoptJSR program since it first edition, w
 
 In this document we're putting together a getting started guide that will help you  get up to speed quickly:
 
-  - List of adopted JSRs
-  - How to contribute
+  - List of adopted JSRs.
+  - How to contribute ?
 
 ## List of adopted JSRs
  - JSR-365 : CDI 2.0
@@ -15,7 +15,7 @@ In this document we're putting together a getting started guide that will help y
  - JSR-371 : MVC 1.0
  - JSR-372 : JSF 2.3 
 
-## How to contribute
+## How to contribute ?
 The glassfish page ([https://glassfish.java.net/adoptajsr/] ) for adopt a JSR sum it well:
 
  - Share ideas and feedback, possibly by entering issues in public issue trackers (almost every JSR has one).
