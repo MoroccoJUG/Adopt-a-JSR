@@ -37,7 +37,7 @@ Let's take for exemple CDI 2.0, although the alpha version if available the spec
  - Enhancing SPI to support async operation for contexts
  To cite but a few.
 
-Back to the main reason we're writing this artice: what can you do right know ? 
+Back to the main reason we're writing this artice: what can you do right now ? 
 
 TL;DR;
  1. Join the mailing lists of the JSRs you're willing to work on
