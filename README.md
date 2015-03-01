@@ -4,9 +4,6 @@ MoroccoJUG's team was a member of the adoptJSR program since the first edition, 
 
 In this document we're putting together a getting started guide that will help you  get up to speed quickly:
 
-  - List of adopted JSRs.
-  - How to contribute ?
-
 ## List of adopted JSRs
  - JSR-365 : CDI 2.0
  - JSR-367 : JSON-P
