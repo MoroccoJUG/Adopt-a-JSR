@@ -48,6 +48,6 @@ TL;DR;
 Morocco JUG leading team will be doing this:
  1. We'll be also watching the mailing lists 
  2. We will take the most interessting topics from the mailing list and create blog posts/ articles to share them with you
- 3. At our mounthly meetings we will take 15 to 30 min ( or more if needed ) to introduce you the content of those blog post and gather live feedback.
+ 3. At our mounthly meetings we will take 15 to 30 min ( or more if needed ) to introduce you the content of those blog posts and gather live feedback.
 
 [https://glassfish.java.net/adoptajsr/]:https://glassfish.java.net/adoptajsr/
