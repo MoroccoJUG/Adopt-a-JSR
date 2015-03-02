@@ -41,6 +41,7 @@ TL;DR;
  2. Join the on going discussions and give you feedback when ever you have it 
  3. Play with the early build of the implementations
  4. Watch this github repository, more content will be availble.
+ 5. Install and run the demo Petstore application available on the repository and explore the code 
  
 Morocco JUG leading team will be doing this:
  1. We'll be also watching the mailing lists 
