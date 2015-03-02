@@ -13,7 +13,7 @@ In this document we're putting together a getting started guide that will help y
  - JSR-372 : JSF 2.3 
 
 ## How to contribute ?
-The glassfish page ([https://glassfish.java.net/adoptajsr/] ) for adopt a JSR sum it well:
+The glassfish page ([https://glassfish.java.net/adoptajsr] ) for adopt a JSR sum it well:
 
  - Share ideas and feedback, possibly by entering issues in public issue trackers (almost every JSR has one).
  - When using email, use "Adopt-a-JSR" in the subject line for greater visibility.
@@ -48,4 +48,4 @@ Morocco JUG leading team will be doing this:
  2. We will take the most interessting topics from the mailing list and create blog posts/ articles to share them with you
  3. At our mounthly meetings we will take 15 to 30 min ( or more if needed ) to introduce you the content of those blog posts and gather live feedback.
 
-[https://glassfish.java.net/adoptajsr/]:https://glassfish.java.net/adoptajsr/
+[https://glassfish.java.net/adoptajsr]:https://glassfish.java.net/adoptajsr
